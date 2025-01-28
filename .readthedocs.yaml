@@ -13,7 +13,7 @@ build:
     python: "3.13"
 sphinx:
   # Path to your Sphinx configuration file.
-  configuration: ./docs/conf.py
+  configuration: docs/source/conf.py
   
 # Optionally, but recommended,
 # declare the Python requirements required to build your documentation
